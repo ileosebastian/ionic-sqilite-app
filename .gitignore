@@ -22,6 +22,7 @@ log.txt
 /www
 /platforms
 /plugins
+/android
 
 # Compiled output
 /dist
@@ -45,6 +46,7 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -54,6 +56,7 @@ yarn-error.log
 
 
 # Miscellaneous
+.angular/
 /.angular
 /.angular/cache
 .sass-cache/
